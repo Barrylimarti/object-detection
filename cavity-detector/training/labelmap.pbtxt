@@ -1,4 +1,4 @@
 item {
+	name: "decay/cavity"
 	id: 1
-	name: 'decay/cavity'
 }
